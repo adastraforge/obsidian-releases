@@ -48466,5 +48466,12 @@
     "author": "Desynkd",
     "description": "An opinionated project dashboard with a hard-enforced WIP limit, one-click hour logging, and inbox triage, for turning scattered ideas into finished projects. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "desynkd/chicago"
+  },
+  {
+    "id": "obsave",
+    "name": "ObSave",
+    "author": "Ad Astra Forge",
+    "description": "Multi-repository & Git auto-sync plugin for Obsidian.",
+    "repo": "adastraforge/obsave"
   }
 ]
